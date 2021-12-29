@@ -1,14 +1,14 @@
 # 3Dcam
 3D GIF photo from 2 cam in stereo mode
 
-hardware:
-raspberry
-2 cam
-1 monitor
-trigger
+# hardware
+raspberry <br>
+2 cam <br>
+1 monitor <br>
+trigger <br>
 led light
 
-software:
-linux base
-python code
+# software
+linux base <br>
+python code <br>
 GIPHY API / online page
