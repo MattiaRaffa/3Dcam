@@ -4,7 +4,7 @@
 ## hardware
 raspberry <br>
 2 cam <br>
-1 monitor <br>
+(1 monitor) <br>
 trigger <br>
 led light
 
@@ -26,5 +26,5 @@ GIPHY API / online page
 [tomafotograaf on GIPHY](https://giphy.com/tagmeifyouusemypics/)
 
 ##usefull link
-https://giphy.com/explore/nishika-n8000
-https://www.outsidetheshot.com/nishika-n8000-3d-camera/
+[nishika n8000 3D vintage camera](https://www.outsidetheshot.com/nishika-n8000-3d-camera/)
+[gif example](https://giphy.com/explore/nishika-n8000)
